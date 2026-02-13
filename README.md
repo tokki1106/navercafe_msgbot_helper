@@ -49,7 +49,7 @@
 ### 2. 저장소 클론 및 의존성 설치
 
 ```bash
-git clone https://github.com/<your-username>/msgbot-cafe-ai-assistant.git
+git clone https://github.com/tokki1106/msgbot-cafe-ai-assistant.git
 cd msgbot-cafe-ai-assistant
 pip install -r requirements.txt
 ```
@@ -147,3 +147,4 @@ python main.py --dry-run --headless --start-id 53300
 ## 라이선스
 
 이 프로젝트는 개인 학습 및 커뮤니티 봉사 목적으로 제작되었습니다.
+
